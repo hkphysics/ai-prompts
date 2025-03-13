@@ -1,0 +1,4 @@
+* use the latest version of all libraries
+* avoid global imports and import individual objects
+* include natspec comments on all functions
+* use typescript typings
